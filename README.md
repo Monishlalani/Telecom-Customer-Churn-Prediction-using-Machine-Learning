@@ -1,7 +1,3 @@
-Here is a new, professional `README.md` tailored specifically for your **Telecom Churn Prediction** project based on your notebook analysis and workflow architecture.
-
----
-
 # Telecom Customer Churn Prediction
 
 ---
