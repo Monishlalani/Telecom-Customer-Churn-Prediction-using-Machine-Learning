@@ -1,16 +1,3 @@
-Developed predictive classification models for behavioral vigilance, applying feature engineering, Random Forest, AdaBoost, class-imbalance handling, SMOTE, hyperparameter tuning and temporal validation to identify and prioritize anomalous behavioral patterns.
-
-Developed Isolation Forest-based unsupervised anomaly detection using historical behavioral baselines, multidimensional features and statistical thresholding, with scalable Python-based data processing, validation and QC workflows.
-
-Built CTV estimation and segmentation methodology using Decision Tree/CatBoost feature importance, K-Means clustering, Manhattan-distance similarity, normalization and geometric growth projection for markets with limited survey information.
-
-Optimized Cell-to-RIM weighting and large-scale data-processing workflows using Python, delivering 12x faster production performance while strengthening automated data quality and validation processes.
-
-Delivered 150+ high-priority analytics and methodology requests, collaborating with cross-functional stakeholders and contributing to a 22% improvement in CSAT.
-
-
-
-
 # Telecom Customer Churn Prediction
 
 
