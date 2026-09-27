@@ -1,21 +1,3 @@
-Data Science Intern | TwiLearn | Feb 2023 - Apr 2023
-
-Telecom Customer Churn Prediction |
-
-Python, XGBoost, Random Forest, Streamlit
-
-Built an end-to-end telecom customer churn prediction solution covering EDA, data cleaning, feature engineering, categorical encoding and imbalanced classification; identified churn patterns across tenure, contracts, monthly charges, payment methods and customer services.
-
-sharepoint
-
-Benchmarked XGBoost, Random Forest, CatBoost, LightGBM and AdaBoost applying SMOTE/SMOTEENN, class weighting and hyperparameter tuning using Randomized SearchCV/Optuna, and integrated the trained model with Streamlit for interactive
-
-customer churn prediction.
-
-sharepoint
-
-
-
 
 # Telecom Customer Churn Prediction
 
