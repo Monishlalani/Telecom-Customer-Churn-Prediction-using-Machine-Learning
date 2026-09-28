@@ -1,3 +1,17 @@
+Developed customer-level classification models using Random Forest, AdaBoost and SMOTE, with feature engineering and hyperparameter tuning for PAC Vigilance.
+
+Built Isolation Forest-based anomaly detection using historical data, multidimensional feature engineering and statistical thresholding with automated Python validation and QC workflows.
+
+Developed CTV segmentation and estimation models using Decision Tree/CatBoost feature importance, K-Means clustering, Manhattan-distance similarity, normalization and geometric growth projection.
+
+Optimized Cell-to-RIM weighting and large-scale Python workflows, achieving 12x faster production processing.
+
+Delivered 150+ high-priority analytics and methodology requests, contributing to a 22% improvement in CSAT through data quality, validation and stakeholder support
+
+
+Built a Telecom Customer Churn Propensity Model using Python, XGBoost, Random Forest and SMOTE, with feature engineering, hyperparameter tuning and Streamlit deployment
+
+
 
 # Telecom Customer Churn Prediction
 
