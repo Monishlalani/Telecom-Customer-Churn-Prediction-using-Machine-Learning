@@ -1,3 +1,7 @@
+Developed CTV market estimation models using CatBoost/Decision Tree for feature selection, K-Means for market segmentation, and similarity-based analysis for growth projection
+
+
+
 # Telecom Customer Churn Prediction
 
 
