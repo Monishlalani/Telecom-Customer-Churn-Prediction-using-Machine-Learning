@@ -1,23 +1,23 @@
-Senior Data Scientist – BARC India | Jun 2023 – Present
-Mumbai, India
+Built classification models using Random Forest, AdaBoost and SMOTE to identify suspicious viewers, reducing manual ground-vigilance costs by ~30%.
 
-• Built classification models using Random Forest, AdaBoost and SMOTE to identify suspicious customer/viewer behavior.
 
-• Developed market estimation and growth projection models using CatBoost, Decision Trees and K-Means clustering.
+Developed market estimation and growth projection models using CatBoost, Decision Trees and K-Means, enabling data-driven estimation across 12 markets with limited survey data.
 
-• Built an automated anomaly detection model using Isolation Forest to identify unusual customer/viewer behavior.
+Built an automated anomaly detection model using Isolation Forest to identify unusual viewers, reducing outlier-identification processing time by ~50%.
 
-• Optimized Python data-processing and statistical weighting workflows, achieving 12x faster production processing.
 
-• Used Python, SQL and statistical analysis to solve complex business problems, analyze large datasets and deliver data-driven solutions.
+Optimized Python data-processing and statistical weighting workflows, achieving 12x faster production processing.
 
-Data Science Intern – TwiLearn | Feb 2022 – Apr 2023
 
-• Built a Telecom Customer Churn Prediction Model using XGBoost, Random Forest and SMOTE.
+Used Python, SQL and statistical analysis to solve complex business problems, analyze large datasets and deliver data-driven solutions.
 
-• Developed a Telecom Customer Revenue Prediction Model using XGBoost and Random Forest for customer targeting.
 
-• Performed EDA, feature engineering, hyperparameter tuning and model evaluation, with deployment through Streamlit.
+__________
+
+Built a Telecom Customer Churn Propensity Model using XGBoost, Random Forest and SMOTE, achieving X% recall and X% F1-score for churn customers.
+Hide quoted text
+
+Developed a Telecom Customer Revenue Prediction Model using XGBoost and Random Forest for customer targeting.
 
 
 
