@@ -1,3 +1,28 @@
+Senior Data Scientist – BARC India | Jun 2023 – Present
+Mumbai, India
+
+• Built classification models using Random Forest, AdaBoost and SMOTE to identify suspicious customer/viewer behavior.
+
+• Developed market estimation and growth projection models using CatBoost, Decision Trees and K-Means clustering.
+
+• Built an automated anomaly detection model using Isolation Forest to identify unusual customer/viewer behavior.
+
+• Optimized Python data-processing and statistical weighting workflows, achieving 12x faster production processing.
+
+• Used Python, SQL and statistical analysis to solve complex business problems, analyze large datasets and deliver data-driven solutions.
+
+Data Science Intern – TwiLearn | Feb 2022 – Apr 2023
+
+• Built a Telecom Customer Churn Prediction Model using XGBoost, Random Forest and SMOTE.
+
+• Developed a Telecom Customer Revenue Prediction Model using XGBoost and Random Forest for customer targeting.
+
+• Performed EDA, feature engineering, hyperparameter tuning and model evaluation, with deployment through Streamlit.
+
+
+
+
+
 # Telecom Customer Churn Prediction
 
 
