@@ -1,27 +1,3 @@
-Built classification models using Random Forest, AdaBoost and SMOTE to identify suspicious viewers, reducing manual ground-vigilance costs by ~30%.
-
-
-Developed market estimation and growth projection models using CatBoost, Decision Trees and K-Means, enabling data-driven estimation across 12 markets with limited survey data.
-
-Built an automated anomaly detection model using Isolation Forest to identify unusual viewers, reducing outlier-identification processing time by ~50%.
-
-
-Optimized Python data-processing and statistical weighting workflows, achieving 12x faster production processing.
-
-
-Used Python, SQL and statistical analysis to solve complex business problems, analyze large datasets and deliver data-driven solutions.
-
-
-__________
-
-Built a Telecom Customer Churn Propensity Model using XGBoost, Random Forest and SMOTE, achieving X% recall and X% F1-score for churn prediction.
-
-Developed a Telecom Customer Revenue Prediction Model using XGBoost and Random Forest to identify and target high value customers.
-
-
-
-
-
 # Telecom Customer Churn Prediction
 
 
