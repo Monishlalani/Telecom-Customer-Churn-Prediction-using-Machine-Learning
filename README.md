@@ -14,10 +14,9 @@ Used Python, SQL and statistical analysis to solve complex business problems, an
 
 __________
 
-Built a Telecom Customer Churn Propensity Model using XGBoost, Random Forest and SMOTE, achieving X% recall and X% F1-score for churn customers.
-Hide quoted text
+Built a Telecom Customer Churn Propensity Model using XGBoost, Random Forest and SMOTE, achieving X% recall and X% F1-score for churn prediction.
 
-Developed a Telecom Customer Revenue Prediction Model using XGBoost and Random Forest for customer targeting.
+Developed a Telecom Customer Revenue Prediction Model using XGBoost and Random Forest to identify and target high value customers.
 
 
 
